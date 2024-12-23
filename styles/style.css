@@ -1,2 +1,5 @@
 
-    a::backdrop {color: red;}
+.text { border: 10px solid blueviolet;
+        padding: 100px ;
+        margin: 10px;
+}
